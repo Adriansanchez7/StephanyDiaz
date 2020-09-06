@@ -1,2 +1,1 @@
-# StephanyDiaz
-Exposición de proyecto
+
